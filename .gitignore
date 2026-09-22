@@ -1,0 +1,35 @@
+# C++ kompilyasiya fayllari
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# LaTeX komekci fayllari (PDF-ler saxlanilir)
+*.aux
+*.log
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.nav
+*.snm
+*.toc
+*.vrb
+
+# Emeliyyat sistemi fayllari
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Redaktor ve IDE fayllari
+.vscode/
+.idea/
+
+# Muveqqeti fayllar ve kesler
+*.tmp
+__pycache__/
+*.pyc
+scratch/
